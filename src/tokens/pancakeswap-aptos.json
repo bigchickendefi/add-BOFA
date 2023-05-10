@@ -182,5 +182,13 @@
     "decimals": 8,
     "address": "0x7fd500c11216f0fe3095d0c4b8aa4d64a4e2e04f83758462f2b127255643615::thl_coin::THL",
     "logoURI": "https://tokens.pancakeswap.finance/images/aptos/0x7fd500c11216f0fe3095d0c4b8aa4d64a4e2e04f83758462f2b127255643615::thl_coin::THL.png"
+  },
+  {
+  "name": "Bofa Chiku",
+  "symbol": "BOFA",
+  "chainId": "1",
+  "decimals": "6",
+  "address": "0xd1fe830dd863890ead995cbed2e1584da1558df1de184f31c8d0adf95fe19bc::proton_d69::PROTON_75C",
+  "logoURI": "",
   }
 ]
